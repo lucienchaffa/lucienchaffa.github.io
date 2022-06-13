@@ -4,9 +4,9 @@ menu:
 - {name: 'References', url: '/References'}
 
 social:
-- {icon: 'github', link: 'https://github.com/ghislainafavi'}
+- {icon: 'github', link: 'https://github.com/lucienchaffa'}
 - {icon: 'twitter', link: 'https://twitter.com/GhislainAfavi'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/afavi-ghislain-5379b8a7/'}
 
 contacts:
-- {  email: 'ghislain.afavi@umontreal.ca', phone: '+1 (514) 569 5551', office: 'Lionel-Groulx Building, Office C-6070-1', institution_address: '3150 Jean brillant, Université de Montréal', institution_address1: 'Montréal, Québec, H3T 1N8, Canada.'}
+- {  email: 'lucien.chaffa@umontreal.ca', phone: '+1 (514) 402 4189', office: 'Lionel-Groulx Building, Office C-6070-10', institution_address: '3150 Jean brillant, Université de Montréal', institution_address1: 'Montréal, Québec, H3T 1N8, Canada.'}
