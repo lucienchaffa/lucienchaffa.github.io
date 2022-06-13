@@ -2,7 +2,7 @@ menu:
 - {name: 'Research',  url: '/Research' }
 - {name: 'Teaching', url: '/Teaching'}
 - {name: 'References', url: '/References'}
-- {name: 'References', url: '/References 2'}
+
 social:
 - {icon: 'github', link: 'https://github.com/lucienchaffa'}
 #- {icon: 'twitter', link: 'https://twitter.com/GhislainAfavi'}
