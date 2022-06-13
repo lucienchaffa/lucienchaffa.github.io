@@ -5,7 +5,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://github.com/lucienchaffa'}
-- {icon: 'twitter', link: 'https://twitter.com/GhislainAfavi'}
+#- {icon: 'twitter', link: 'https://twitter.com/GhislainAfavi'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/afavi-ghislain-5379b8a7/'}
 
 contacts:
