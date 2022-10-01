@@ -4,3 +4,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Lucien Chaffa" # the name of your site, e.g. ACME Corp.
 description: ""
 ---
+plugins: - jekyll-sitemap
