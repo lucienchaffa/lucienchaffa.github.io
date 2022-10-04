@@ -54,7 +54,7 @@ The `_layouts/contact.html` layout can be used to provide contact information fo
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://ghislainafavi.github.io/.
+Bug reports and pull requests are welcome on GitHub at https://lucienchaffa.github.io/.
 
 ## Development
 
