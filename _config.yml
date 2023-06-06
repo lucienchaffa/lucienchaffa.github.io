@@ -5,3 +5,4 @@ title: "Lucien Chaffa" # the name of your site, e.g. ACME Corp.
 description: ""
 ---
 plugins: - jekyll-sitemap
+encoding: UTF-8
